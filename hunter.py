@@ -1,13 +1,4 @@
 # Author: Mehrshad Matin
-# Student ID : 301117102
-# Did the assignment individually
-# Made function for each part and at the end gathered them together
-# Spent around 18-25hrs
-
-# Creation of board is only by user 
-# The choices for paths are r,c,m and s only 
-# The game at the end shows how many players played, what are the total points for all hunters together are, which hunter got the maximum points and how many and min lucky#
-# Also informing the user of the player status, either "trapped" or "fine"
 
 
 
